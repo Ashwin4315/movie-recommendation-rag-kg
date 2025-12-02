@@ -1,0 +1,9 @@
+streamlit
+groq
+sentence-transformers
+chromadb
+SPARQLWrapper
+pandas
+numpy
+kagglehub
+python-dotenv
